@@ -1,4 +1,8 @@
-# tigattack.onepassword_connect
+# Ansible Collection: tigattack.onepassword_connect
+
+[![Documentation][docs_badge]][docs_link]
+[![Ansible Galaxy version][galaxy_ver_badge]][galaxy_link]
+[![Ansible Galaxy downloads][galaxy_dls_badge]][galaxy_link]
 
 An Ansible collection providing a lookup plugin to retrieve secrets from a
 self-hosted [1Password Connect Server](https://developer.1password.com/docs/connect/).
@@ -71,3 +75,9 @@ fields, and per-call host/token overrides.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+[docs_badge]: https://img.shields.io/badge/docs-brightgreen.svg
+[docs_link]: https://galaxy.ansible.com/ui/repo/published/tigattack/onepassword_connect/docs/
+[galaxy_ver_badge]: https://img.shields.io/ansible/collection/v/tigattack/onepassword_connect?label=version
+[galaxy_dls_badge]: https://img.shields.io/ansible/collection/d/tigattack/onepassword_connect?label=downloads
+[galaxy_link]:  https://galaxy.ansible.com/ui/repo/published/tigattack/onepassword_connect/
