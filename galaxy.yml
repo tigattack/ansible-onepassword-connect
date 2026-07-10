@@ -2,21 +2,21 @@ namespace: tigattack
 name: onepassword_connect
 version: 1.0.0
 readme: README.md
-authors: [tigattack (@tigattack)]
+authors:
+  - tigattack (@tigattack)
 description: Retrieve secrets from a 1Password Connect Server via a lookup plugin.
-license: [MIT]
+license:
+  - MIT
 tags:
   - onepassword
   - secrets
   - lookup
   - security
   - connect
-
 repository: https://github.com/tigattack/ansible-onepassword-lookup
 documentation: https://github.com/tigattack/ansible-onepassword-lookup
 homepage: https://github.com/tigattack/ansible-onepassword-lookup
 issues: https://github.com/tigattack/ansible-onepassword-lookup/issues
-
 build_ignore:
   - .venv
   - .github
