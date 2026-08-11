@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/tigattack/ansible-onepassword-connect/compare/v1.0.1...v1.0.2) (2026-08-11)
+
+
+### 🧹 Miscellaneous Chores
+
+* add renovate config ([a58545d](https://github.com/tigattack/ansible-onepassword-connect/commit/a58545da6ac8c6d1c32bf431d1f99335f09850ca))
+
 ## [1.0.1](https://github.com/tigattack/ansible-onepassword-connect/compare/v1.0.0...v1.0.1) (2026-07-10)
 
 
